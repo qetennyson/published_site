@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.portrait {
+    margin-top: 30px;
+    margin-left: 40px;
+    size-adjust: 50%;
+    width: 12%;
+    height: auto;
+ 
+}
+
+.name-header-span {
+    float: left;
+    margin: 0 auto;
+}
+
+
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
